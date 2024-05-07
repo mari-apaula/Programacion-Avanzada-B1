@@ -9,6 +9,5 @@ package Clases;
  * @author UTPL
  */
 public class Bodeguero {
-    khgjkgkjgkgkjgkjgkj
-            ljhjk
+    khgjkg
 }
